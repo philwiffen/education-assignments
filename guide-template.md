@@ -44,7 +44,7 @@ _If applicable_, demonstrate the steps using CLI, API, and UI.
 ## Next steps
 
 In this section, start with a brief ***summary*** of what you have learned in
-this guide re-emphasizing the business value. Then provide some guideance on the
+this guide re-emphasizing the business value. Then provide some guidance on the
 next steps to extend the user's knowledge. Briefly describe what the user will do in the next guide if the current track is sequential. 
 
 Add cross-referencing links to get more information about the feature (e.g.
