@@ -144,8 +144,7 @@ make sure they are necessary, and if so, use the gender neutral "they/them".
 
 ### Over Simplification
 
-Our products can be complicated. Words that indicate that processes are easy
-don't can alienate users who are having a hard time or are encountering bugs.
+Our products can be complicated. Words that indicate that processes are easy can alienate users who are having a hard time or are encountering bugs.
 
 Avoid saying:
 - easy, easily, simply
